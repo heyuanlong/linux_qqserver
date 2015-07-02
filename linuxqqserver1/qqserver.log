@@ -1,0 +1,335 @@
+﻿
+ado::findqqfriendshifouweifriend success
+ado::insert1 user
+ado::insert success
+ center::dispose2{"message":"?ȴ??Է?ing","type":110}
+
+ado::findqqfriendshifouweifriend success
+ado::insert1 user
+ado::insert success
+ center::dispose2{"message":"?ȴ??Է?ing","type":110}
+
+ado::findqqfriendshifouweifriend success
+ado::insert1 user
+ado::insert success
+ center::dispose2{"message":"?ȴ??Է?ing","type":110}
+
+ado::findqqfriendshifouweifriend success
+ado::insert1 user
+ado::insert success
+ center::dispose2{"message":"?ȴ??Է?ing","type":110}
+
+ado::addfriend user
+ado::addfriend success
+ center::dispose2{"message":"","type":200}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"type":113}
+
+ center::dispose1{"type":113}
+
+ center::dispose2{"nickname":"\"zhe shi qq message\"\n","qq":"0329143924","type":115}
+
+ado::findqq success
+core::findqqinfo{"age":10,"nickname":"212       ","qq":"0329143924","realname":"nick      ","sex":1,"type":112}
+
+ center::dispose1{"age":10,"nickname":"212       ","qq":"0329143924","realname":"nick      ","sex":1,"type":112}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"type":113}
+
+ center::dispose1{"type":113}
+
+ center::dispose2{"message":"\"zhe shi qq message\"\n","qq":"0329143924","type":115}
+
+ado::insert1 user
+ado::insert success
+ center::dispose2
+ado::insert1 user
+ado::insert success
+ center::dispose2
+ado::insert1 user
+ado::insert success
+ center::dispose2
+ado::insert1 user
+ado::insert success
+ center::dispose2
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"type":113}
+
+ center::dispose1{"type":113}
+
+core::qqmessage
+ center::dispose2{"message":"zhe shi qq message","qq":"0329143924","type":115}
+
+core::qqmessage
+ado::insert1 user
+ado::insert success
+ center::dispose2
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":1,"groupname":"yi        ","online":0,"you":"3942403051"},{"groupid":1,"groupname":"yi        ","online":0,"you":"3756456092"},{"groupid":2,"groupname":"er        ","online":0,"you":"3427373619"},{"groupid":2,"groupname":"er        ","online":0,"you":"3649018370"},{"groupid":0,"groupname":"default   ","online":0,"you":"3435842735"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":1,"groupname":"yi        ","online":0,"you":"3942403051"},{"groupid":1,"groupname":"yi        ","online":0,"you":"3756456092"},{"groupid":2,"groupname":"er        ","online":0,"you":"3427373619"},{"groupid":2,"groupname":"er        ","online":0,"you":"3649018370"},{"groupid":0,"groupname":"default   ","online":0,"you":"3435842735"}],"type":113}
+
+ado::mymessage success
+ado::findqqpass success
+ center::dispose1{"message":"????????","type":110}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:11:27","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:52","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:58","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:25:48","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:16","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:30","type":115}
+
+core::login {"message":"\"zhe shi qq message\"\n","qq":"0329143924","time":"2015/4/8 16:28:02","type":115}
+
+core::login {"message":"zhe shi qq message","qq":"0329143924","time":"2015/4/8 16:41:25","type":115}
+
+core::login success
+ center::dispose1
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:11:27","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:52","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:58","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:25:48","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:16","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:30","type":115}
+
+core::login {"message":"\"zhe shi qq message\"\n","qq":"0329143924","time":"2015/4/8 16:28:02","type":115}
+
+core::login {"message":"zhe shi qq message","qq":"0329143924","time":"2015/4/8 16:41:25","type":115}
+
+core::login success
+ center::dispose1
+communication::send {"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:11:27","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:47:52","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:47:58","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:25:48","type":115}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:26:16","type":115}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:26:30","type":115}
+
+communication::send {"message":"\"zhe shi qq message\"\n","qq":"0329143924","time":"2015/4/8 16:28:02","type":115}
+
+communication::send {"message":"zhe shi qq message","qq":"0329143924","time":"2015/4/8 16:41:25","type":115}
+
+communication::send 
+ado::findqqpass success
+ado::findqqfriendliebiao success
+core::login{"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+ado::mymessage success
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:11:27","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:52","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/2 21:47:58","type":114}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:25:48","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:16","type":115}
+
+core::login {"message":"","qq":"0329143924","time":"2015/4/8 16:26:30","type":115}
+
+core::login {"message":"\"zhe shi qq message\"\n","qq":"0329143924","time":"2015/4/8 16:28:02","type":115}
+
+core::login {"message":"zhe shi qq message","qq":"0329143924","time":"2015/4/8 16:41:25","type":115}
+
+core::login success
+ center::dispose1
+communication::send {"message":[{"groupid":0,"groupname":"default   ","online":0,"you":"0329143924"}],"type":113}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:11:27","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:12:18","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:47:52","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/2 21:47:58","type":114}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:25:48","type":115}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:26:16","type":115}
+
+communication::send {"message":"","qq":"0329143924","time":"2015/4/8 16:26:30","type":115}
+
+communication::send {"message":"\"zhe shi qq message\"\n","qq":"0329143924","time":"2015/4/8 16:28:02","type":115}
+
+communication::send {"message":"zhe shi qq message","qq":"0329143924","time":"2015/4/8 16:41:25","type":115}
+
+communication::send 
+ado::findqq success
+core::findqqinfo{"age":10,"nickname":"212       ","qq":"0329143924","realname":"nick      ","sex":1,"type":112}
+
+ center::dispose1{"age":10,"nickname":"212       ","qq":"0329143924","realname":"nick      ","sex":1,"type":112}
+
+communication::send {"age":10,"nickname":"212       ","qq":"0329143924","realname":"nick      ","sex":1,"type":112}
+

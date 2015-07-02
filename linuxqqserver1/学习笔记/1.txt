@@ -1,0 +1,32 @@
+1.perror函数，出错函数会设置全局变量errno的值，perror根据这个变量来打印错误类型。
+
+2.
+pthread_cond_signal(&has_product);//无用
+pthread_mutex_lock(&lock);
+pthread_cond_wait(&has_product, &lock);
+printf("dsfsdfd");fflush(stdout);
+pthread_mutex_unlock(&lock);
+
+先调用pthread_cond_signal对pthread_cond_wait没有什么作用（多线程情况也是这样子滴）。
+只有当pthread_cond_wait其作用了再pthread_cond_signal才有用。
+
+3.
+类型转换
+static struct sockaddr_in addrSock;
+int retval = bind(mmsocket, (struct sockaddr*)&addrSock, sizeof(addrSock));
+
+
+4.
+缺少一个.o文件就会链接出错
+qqserver:qqserver.o center.o communication.o myjson.o core.o ado.o mylog.o jyjson/value.o jyjson/read.o jyjson/write.o
+	g++ -std=c++11 qqserver.o center.o communication.o myjson.o core.o ado.o mylog.o jyjson/value.o jyjson/read.o jyjson/write.o -o qqserver -L/usr/lib/mysql -lmysqlclient -lpthread
+刚开始在g++上忘记了jyjson/value.o jyjson/read.o jyjson/write.o ，哇！调死我了。
+
+
+
+
+
+
+
+
+

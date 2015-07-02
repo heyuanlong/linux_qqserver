@@ -1,0 +1,34 @@
+
+注册
+{  "type": 1,  "qq1": "", "qq2": "", "message": {"pass": "mima",  "nickname": "nick","realname": "real", "age": 10, "sex": 1 }}
+
+登录
+{  "type": 2,  "qq1": "0329143924", "qq2": "", "message": {"pass": "123" }}  
+{  "type": 2,  "qq1": "3435842735", "qq2": "", "message": {"pass": "mima" }}  
+
+退出
+{  "type": 3,  "qq1": "0329143924", "qq2": "", "message": ""}  
+
+
+//查找qq好友信息
+{  "type": 4,  "qq1": "0329143924", "qq2": "0329143924", "message":""}  
+
+
+
+qq消息测试
+{  "type": 2,  "qq1": "3756456092", "qq2": "", "message": {"pass": "123" }}  
+{  "type": 6,  "qq1": "0329143924", "qq2": "3756456092", "message": {"mess":"zhe shi qq message"}} 
+
+{  "type": 6,  "qq1": "0329143924", "qq2": "3435842735", "message": {"mess":"zhe shi qq message"}} 
+
+
+请求添加好友
+{  "type": 7,  "qq1": "0329143924", "qq2": "3435842735", "message":}  
+
+回复添加好友
+{  "type": 8,  "qq1": "3435842735", "qq2": "0329143924", "message":}  
+
+
+SELECT * FROM [dbo].[user] where qq=0329143924 and pass='123'
+SELECT * FROM [dbo].[user] where qq=3756456092 and pass='123'
+SELECT * FROM [dbo].[user] where qq=3942403051 and pass='mima'
